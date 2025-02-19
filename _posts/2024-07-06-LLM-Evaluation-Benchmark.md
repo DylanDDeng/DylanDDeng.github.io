@@ -1,8 +1,10 @@
 --- 
 layout: post 
-title: "LLM Evaluation Benchmark"
+title: "LLM-Evaluation-Benchmark"
 date: 2024-07-06 
-categories: LLMs, evaluation 
+categories: 
+  - LLMs 
+  - evaluation 
 ---
 
 #AI #LLM 
