@@ -1,5 +1,5 @@
 --- 
-layuout: home 
+layout: home 
 title: My Blog 
 --- 
 

@@ -1,4 +1,11 @@
 title: My Blog 
 description: This is my personal blog and you can find some interesting things here. 
 theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-feed 
+  - jekyll-paginate 
 
+paginate:5 
+paginate_path: "/page:num/" 
+
+show_excerpts: true 
